@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ScRiPt1337&show_icons=true">
+[![ScRiPt1337's github stats](https://github-readme-stats.vercel.app/api?username=ScRiPt1337&show_icons=true)]
 
 ### Hi there I'm ScRiPt1337:
 
