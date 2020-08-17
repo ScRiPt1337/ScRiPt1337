@@ -8,7 +8,7 @@
   
 👨‍💻 19 Years old Developer and Pentester 
 
-🚧 **Current Project:** [pyffuf](https://github.com/ScRiPt1337/pyffuf)
+🚧 **Current Project:** argo | a scriptable web scanner
 
 ⭐️ From [ScRiPt1337](https://github.com/ScRiPt1337)
 
