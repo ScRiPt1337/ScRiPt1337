@@ -6,7 +6,7 @@
 [![me@script@hacksec.in](https://img.shields.io/static/v1?label=me@ScRiPt1337&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:script@hacksec.in)
   
   
-👨‍💻 21 Years old Developer and Pentester 
+👨‍💻 22 Years old Developer and Pentester 
 
 🚧 **Current Project:** hacksec > https://hacksec.in
 
