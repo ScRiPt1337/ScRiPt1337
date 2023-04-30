@@ -3,8 +3,10 @@
 ### Hi there I'm ScRiPt1337:
 
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/script_1337x/)
-[![me@script@hacksec.in](https://img.shields.io/static/v1?label=me@ScRiPt1337&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:script1337x@gmail.com)
-  
+[![me@script1337x@gmail.com](https://img.shields.io/static/v1?label=me@ScRiPt1337&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:script1337x@gmail.com)
+
+
+TOX ID : 49ACC573168C5ABD1CEE4AACE6A52593EA157BF9AB4CAC01A4FB8F6C0C24EE76516A3DCE665A
   
 👨‍💻 22 Years old Developer and Pentester 
 
