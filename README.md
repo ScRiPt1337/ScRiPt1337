@@ -6,9 +6,9 @@
 [![me@script1337x@gmail.com](https://img.shields.io/static/v1?label=me@ScRiPt1337&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:script1337x@gmail.com)
 
   
-👨‍💻 23 Years old Developer and Pentester 
+👨‍💻 24 Years old Developer and Pentester 
 
-🚧 **Current Project:** checkmate (c2 for linux)
+🚧 **Current Project:** Windows command and control server for red teaming and av evasion tool
 
 ⭐️ From [ScRiPt1337](https://github.com/ScRiPt1337)
 
